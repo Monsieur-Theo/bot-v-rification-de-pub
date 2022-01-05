@@ -136,6 +136,3 @@ async def on_message(message):
 			await verifmesg.delete()
 			await message.delete()
 			await refusmsg.delete()
-			
-
-client.run("ODk2MDgxODI0NDQ1NTIxOTIw.YWB7Ow.Owrp0AzA9BD9FooylwRMpsWs34Q")
